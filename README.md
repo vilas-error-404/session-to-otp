@@ -89,12 +89,6 @@ A Telegram bot designed to manage user `.session` files (Pyrogram/Telethon), lis
     API_ID=YOUR_API_ID_HERE
     API_HASH=YOUR_API_HASH_HERE
 
-    # --- Optional Configuration (Defaults are in config.py) ---
-    # MAX_CONCURRENT_ACTIVE_SESSIONS_PER_USER=10
-    # SESSION_LISTEN_DURATION=1800 # 30 minutes in seconds
-    # SESSIONS_PER_PAGE=10
-    # BACKGROUND_CLEANUP_INTERVAL_SECONDS=7200 # 2 hours
-    # BACKGROUND_CLEANUP_AGE_THRESHOLD_SECONDS=3600 # 1 hour
     ```
 
 6.  **Run the Bot:**
